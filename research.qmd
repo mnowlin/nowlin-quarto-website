@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-Below you will find links to my publications including peer-reviewed books, articles, and conference proceedings. I will also provide links to works in-progress through the [Open Science Framework](https://osf.io/). 
+Below you will find links to my publications including peer-reviewed books, articles, and conference proceedings. I will also provide links to [works in progress](#works-in-progress) through the [Open Science Framework](https://osf.io/). 
 
 ## Publications
 
@@ -11,7 +11,8 @@ Below you will find links to my publications including peer-reviewed books, arti
 #### **Nowlin, Matthew C.** 2019. *Environmental Policymaking in an Era of Climate Change*. New York, NY: Routledge.
 
 <div><a href="https://www.routledge.com/Environmental-Policymaking-in-an-Era-of-Climate-Change-1st-Edition/Nowlin/p/book/9781138216938"> 
-<span class="badge bg-primary">Publisher</span></a > <a href="https://www.amazon.com/Environmental-Policymaking-Era-Climate-Change/dp/1138216933/ref=sr_1_2?keywords=Environmental+Policymaking+in+an+Era+of+Climate+Change&qid=1560292196&s=gateway&sr=8-2"><span class="badge bg-primary">{{< fa brands amazon >}} Amazon</span></a ></div>
+<span class="badge bg-primary">Publisher</span></a > <a href="https://www.amazon.com/Environmental-Policymaking-Era-Climate-Change/dp/1138216933/ref=sr_1_2?keywords=Environmental+Policymaking+in+an+Era+of+Climate+Change&qid=1560292196&s=gateway&sr=8-2"><span class="badge bg-primary">{{< fa brands amazon >}} Amazon</span></a > <a href="/publications/env-book/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 
 <!-- 
 ```{=html}
@@ -31,52 +32,64 @@ Below you will find links to my publications including peer-reviewed books, arti
 ```
 -->
 
-#### Jenkins-Smith, Hank C., Joseph T. Ripberger, Gary Copeland, **Matthew C. Nowlin**, Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. *Quantitative Research Methods for Political Science, Public Policy, and Public Administration*. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource. DOI: \url{http://dx.doi.org/10.15763/11244/52244}
+#### Jenkins-Smith, Hank C., Joseph T. Ripberger, Gary Copeland, **Matthew C. Nowlin**, Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. *Quantitative Research Methods for Political Science, Public Policy, and Public Administration*. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource.
 
-### Journal Aricles
+<div><a href="https://shareok.org/handle/11244/52244"> <span class="badge bg-primary">Publisher</span></a > <a href="https://shareok.org/bitstream/handle/11244/52244/Quantitative%20Research%20Methods%20For%20Political%20Science%2c%20Public%20Policy%20and%20Public%20Administration%2c%20With%20Applications%20in%20R.pdf?sequence=15&isAllowed=y"><span class="badge bg-primary">{{< fa regular file-pdf >}} Open source</span></a > <a href="https://github.com/ripberjt/qrmtextbook"><span class="badge bg-primary">{{< fa brands github >}} Code </span></a > <a href="/publications/stats-book/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a > </div>
 
--   Rountree, John, Chris Anderson, Justin Reedy, and **Matthew C. Nowlin**. 2022. "The Internal Dynamics of 'Scaling Up' Deliberative Mini-Publics." *Communication and the Public*, 7(3): 146-164.
+### Journal Articles
 
--   **Nowlin, Matthew C.** 2022. "Who Should 'Do More' about Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions across Actors and Governments." *Review of Policy Research*, 39(4): 468-485.
+#### Rountree, John, Chris Anderson, Justin Reedy, and **Matthew C. Nowlin**. 2022. "The Internal Dynamics of 'Scaling Up' Deliberative Mini-Publics." *Communication and the Public*, 7(3): 146-164.
 
--   **Nowlin, Matthew C.**, Maren Trochmann, and Thomas Rabovsky. 2022. "Advocacy Coalitions and Political Control." *Politics and Policy*, 50(2): 201-224
+#### **Nowlin, Matthew C.** 2022. "Who Should 'Do More' about Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions across Actors and Governments." *Review of Policy Research*, 39(4): 468-485.
 
--   \underline{Hawes, Rachel} and **Matthew C. Nowlin**. 2022. "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States." *Energy Research and Social Science*, 85.
+#### **Nowlin, Matthew C.**, Maren Trochmann, and Thomas Rabovsky. 2022. "Advocacy Coalitions and Political Control." *Politics and Policy*, 50(2): 201-224
 
--   **Nowlin, Matthew C.** 2021. "Policy Learning and Information Processing." *Policy Studies Journal*, 49(4): 1019-1039.
+#### Hawes, Rachel and **Matthew C. Nowlin**. 2022. "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States." *Energy Research and Social Science*, 85.
 
--   **Nowlin, Matthew C.** and Wesley Wehde. 2021. "Social Capital and Hurricane Warning Response." *International Journal of Disaster Risk Reduction*, 65.
+#### **Nowlin, Matthew C.** 2021. "Policy Learning and Information Processing." *Policy Studies Journal*, 49(4): 1019-1039.
 
--   **Nowlin, Matthew C.**. 2021. "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences." *Public Understanding of Science*, 30(3): 331-348.
+#### **Nowlin, Matthew C.** and Wesley Wehde. 2021. "Social Capital and Hurricane Warning Response." *International Journal of Disaster Risk Reduction*, 65.
 
--   Wehde, Welsey and **Matthew C. Nowlin**. 2021. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas." *Publius: The Journal of Federalism*, 51(2): 212-237.
+#### **Nowlin, Matthew C.**. 2021. "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences." *Public Understanding of Science*, 30(3): 331-348.
 
--   \underline{Bundrick Jr., M. Lee}, and **Matthew C. Nowlin**. 2020. "Place, Values, and Public Opinion About Climate Change in South Carolina." *Journal of Political Science*, 40: 85-109.
+#### Wehde, Welsey and **Matthew C. Nowlin**. 2021. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas." *Publius: The Journal of Federalism*, 51(2): 212-237.
 
--   **Nowlin, Matthew C.**, Kuhika Gupta, and Joseph T. Ripberger. 2020. "Revenue Use and Public Support for a Carbon Tax." *Environmental Research Letters*, 15(8).
+#### Bundrick Jr., M. Lee, and **Matthew C. Nowlin**. 2020. "Place, Values, and Public Opinion About Climate Change in South Carolina." *Journal of Political Science*, 40: 85-109.
 
--   **Nowlin, Matthew C.** and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." *Social Science Quarterly*, 101(2): 878-892.
+#### **Nowlin, Matthew C.**, Kuhika Gupta, and Joseph T. Ripberger. 2020. "Revenue Use and Public Support for a Carbon Tax." *Environmental Research Letters*, 15(8).
 
--   Gupta, Kuhika, **Matthew C. Nowlin**, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." *Energy Policy*, 133.
+#### **Nowlin, Matthew C.** and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." *Social Science Quarterly*, 101(2): 878-892.
 
--   **Nowlin, Matthew C.** and Thaddieus W. Conner. 2019. \`\`\`Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility.'' *Politics, Groups, and Identities*, 7(1): 21-38.
+#### Gupta, Kuhika, **Matthew C. Nowlin**, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." *Energy Policy*, 133.
 
--   Conner, Thaddieus W., **Matthew C. Nowlin**, Thomas M. Rabovsky, and Joseph T. Ripberger. 2016. \`\`Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration.'' *Public Administration*, 94(4): 915-932.
+#### **Nowlin, Matthew C.** and Thaddieus W. Conner. 2019. "'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility." *Politics, Groups, and Identities*, 7(1): 21-38.
 
--   **Nowlin, Matthew C.** 2016. \`\`Modeling Issue Definitions using Quantitative Text Analysis.'' *Policy Studies Journal*, 44(3): 309-331.
+#### Conner, Thaddieus W., **Matthew C. Nowlin**, Thomas M. Rabovsky, and Joseph T. Ripberger. 2016. "Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration." *Public Administration*, 94(4): 915-932.
 
--   **Nowlin, Matthew C.** 2016. \`\`Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management.'' *Review of Policy Research*, 33(1): 51-70.
+#### **Nowlin, Matthew C.** 2016. "Modeling Issue Definitions using Quantitative Text Analysis." *Policy Studies Journal*, 44(3): 309-331.
 
--   Ripberger, Joseph T., Geoboo Song, **Matthew C. Nowlin**, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. \`\`Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge.'' *Social Science Quarterly*, 93(3): 713--731.
+#### **Nowlin, Matthew C.** 2016. "Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management." *Review of Policy Research*, 33(1): 51-70.
 
--   Goebbert, Kevin, Hank C. Jenkins-Smith, Kim Klockow, **Matthew C. Nowlin**, and Carol L. Silva. 2012. \`\`Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns.'' *Weather, Climate, and Society*, 4(2): 132--144.
+#### Ripberger, Joseph T., Geoboo Song, **Matthew C. Nowlin**, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. "Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge." *Social Science Quarterly*, 93(3): 713--731.
 
--   **Nowlin, Matthew C.** 2011. \`\`Theories of the Policy Process: State of the Research and Emerging Trends.'' *Policy Studies Journal*, 39(s1): 41--60.
+#### Goebbert, Kevin, Hank C. Jenkins-Smith, Kim Klockow, **Matthew C. Nowlin**, and Carol L. Silva. 2012. "Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns." *Weather, Climate, and Society*, 4(2): 132--144.
 
-    -   *Excerpted in*: Theodoulou, Stella Z., and Matthew A. Cahn (eds). 2013. *Public Policy: The Essential Readings*. 2nd Edition. Pearson: New York, NY. pgs. 190--195 <i class="fas fa-lock"></i> Gated url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0072.2010.00389_4.x
+#### **Nowlin, Matthew C.** 2011. "Theories of the Policy Process: State of the Research and Emerging Trends." *Policy Studies Journal*, 39(s1): 41--60.
+* *Excerpted in*: Theodoulou, Stella Z., and Matthew A. Cahn (eds). 2013. *Public Policy: The Essential Readings*. 2nd Edition. Pearson: New York, NY. pgs. 190--195 <i class="fas fa-lock"></i> Gated url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0072.2010.00389_4.x
 
--   Jenkins-Smith, Hank C., Carol L. Silva, Carol L., **Matthew C. Nowlin**, and Grant deLozier. 2011. \`\`Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility.'' *Risk Analysis*, 31(4): 629--644.
+#### Jenkins-Smith, Hank C., Carol L. Silva, Carol L., **Matthew C. Nowlin**, and Grant deLozier. 2011. "Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility." *Risk Analysis*, 31(4): 629--644.
 
--   **Nowlin, Matthew C.** 2008. \`\`The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families.'' *Oklahoma Politics*, Vol. 17: 111-131.
+#### **Nowlin, Matthew C.** 2008. "The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families." *Oklahoma Politics*, Vol. 17: 111-131.
 
-## In-progress
+### Conference Proceedings 
+
+#### **Nowlin, Matthew C.** 2015. ``Partisanship, Information, and Public Opinion about Yucca Mountain.'' In _Proceedings of the 15th International High-Level Radioactive Waste Management Conference_, 226-231. American Nuclear Society. 
+
+### Book Reviews 
+
+#### **Nowlin, Matthew C.** 2018. "Improving Governance of Risk and Uncertainty." _Journal of Public Administration Research and Theory_, 28(1): 158-160.  
+
+
+## Works in progress
+
+
