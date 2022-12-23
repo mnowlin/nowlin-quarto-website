@@ -117,6 +117,11 @@ Below you will find links to my publications including peer-reviewed books, arti
 
 <div><a href="https://ojs.library.okstate.edu/osu/index.php/OKPolitics/article/view/1181"> <span class="badge bg-primary">Published version</span></a ></div>
 
+## Book Chapters 
+
+#### **Nowlin, Matthew C.** and Wesley Wehde. _Forthcoming_. "Teaching Quantitative Methods to Students of Public Policy." In _Handbook of Teaching Public Policy_ Edited by Philippe Zittoun & Emily St Denny. Edward Elgar Publishing Ltd. 
+
+
 ## Conference Proceedings 
 
 #### **Nowlin, Matthew C.** 2015. "Partisanship, Information, and Public Opinion about Yucca Mountain." In _Proceedings of the 15th International High-Level Radioactive Waste Management Conference_, 226-231. American Nuclear Society. 
