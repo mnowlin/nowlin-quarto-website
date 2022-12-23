@@ -3,12 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "nowlin-quarto-website"
+  title: "Matthew C. Nowlin"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - teaching.qmd
+    right:
+      - href: https://www.dropbox.com/s/nm5uajd5txnhg6v/nowlin-cv-short.pdf?dl=0
+        text: CV
+      - icon: envelope
+        href: mailto:nowlinmc@cofc.edu
+      - icon: google
+        href: https://scholar.google.com/citations?user=xu7Y7_QAAAAJ&hl=en
+
+  page-footer:
+    left:
+      - "Copyright 2022, Matthew C. Nowlin"
+    right:
+      - icon: github
+        href: https://github.com/mnowlin/nowlin-quarto-website
+
 
 format:
   html:

@@ -1,0 +1,82 @@
+---
+title: "Research"
+---
+
+Below you will find links to my publications including peer-reviewed books, articles, and conference proceedings. I will also provide links to works in-progress through the [Open Science Framework](https://osf.io/). 
+
+## Publications
+
+### Books
+
+#### **Nowlin, Matthew C.** 2019. *Environmental Policymaking in an Era of Climate Change*. New York, NY: Routledge.
+
+<div><a href="https://www.routledge.com/Environmental-Policymaking-in-an-Era-of-Climate-Change-1st-Edition/Nowlin/p/book/9781138216938"> 
+<span class="badge bg-primary">Publisher</span></a > <a href="https://www.amazon.com/Environmental-Policymaking-Era-Climate-Change/dp/1138216933/ref=sr_1_2?keywords=Environmental+Policymaking+in+an+Era+of+Climate+Change&qid=1560292196&s=gateway&sr=8-2"><span class="badge bg-primary">{{< fa brands amazon >}} Amazon</span></a ></div>
+
+<!-- 
+```{=html}
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Accordion Item #1
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+```
+-->
+
+#### Jenkins-Smith, Hank C., Joseph T. Ripberger, Gary Copeland, **Matthew C. Nowlin**, Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. *Quantitative Research Methods for Political Science, Public Policy, and Public Administration*. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource. DOI: \url{http://dx.doi.org/10.15763/11244/52244}
+
+### Journal Aricles
+
+-   Rountree, John, Chris Anderson, Justin Reedy, and **Matthew C. Nowlin**. 2022. "The Internal Dynamics of 'Scaling Up' Deliberative Mini-Publics." *Communication and the Public*, 7(3): 146-164.
+
+-   **Nowlin, Matthew C.** 2022. "Who Should 'Do More' about Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions across Actors and Governments." *Review of Policy Research*, 39(4): 468-485.
+
+-   **Nowlin, Matthew C.**, Maren Trochmann, and Thomas Rabovsky. 2022. "Advocacy Coalitions and Political Control." *Politics and Policy*, 50(2): 201-224
+
+-   \underline{Hawes, Rachel} and **Matthew C. Nowlin**. 2022. "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States." *Energy Research and Social Science*, 85.
+
+-   **Nowlin, Matthew C.** 2021. "Policy Learning and Information Processing." *Policy Studies Journal*, 49(4): 1019-1039.
+
+-   **Nowlin, Matthew C.** and Wesley Wehde. 2021. "Social Capital and Hurricane Warning Response." *International Journal of Disaster Risk Reduction*, 65.
+
+-   **Nowlin, Matthew C.**. 2021. "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences." *Public Understanding of Science*, 30(3): 331-348.
+
+-   Wehde, Welsey and **Matthew C. Nowlin**. 2021. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas." *Publius: The Journal of Federalism*, 51(2): 212-237.
+
+-   \underline{Bundrick Jr., M. Lee}, and **Matthew C. Nowlin**. 2020. "Place, Values, and Public Opinion About Climate Change in South Carolina." *Journal of Political Science*, 40: 85-109.
+
+-   **Nowlin, Matthew C.**, Kuhika Gupta, and Joseph T. Ripberger. 2020. "Revenue Use and Public Support for a Carbon Tax." *Environmental Research Letters*, 15(8).
+
+-   **Nowlin, Matthew C.** and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." *Social Science Quarterly*, 101(2): 878-892.
+
+-   Gupta, Kuhika, **Matthew C. Nowlin**, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." *Energy Policy*, 133.
+
+-   **Nowlin, Matthew C.** and Thaddieus W. Conner. 2019. \`\`\`Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility.'' *Politics, Groups, and Identities*, 7(1): 21-38.
+
+-   Conner, Thaddieus W., **Matthew C. Nowlin**, Thomas M. Rabovsky, and Joseph T. Ripberger. 2016. \`\`Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration.'' *Public Administration*, 94(4): 915-932.
+
+-   **Nowlin, Matthew C.** 2016. \`\`Modeling Issue Definitions using Quantitative Text Analysis.'' *Policy Studies Journal*, 44(3): 309-331.
+
+-   **Nowlin, Matthew C.** 2016. \`\`Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management.'' *Review of Policy Research*, 33(1): 51-70.
+
+-   Ripberger, Joseph T., Geoboo Song, **Matthew C. Nowlin**, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. \`\`Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge.'' *Social Science Quarterly*, 93(3): 713--731.
+
+-   Goebbert, Kevin, Hank C. Jenkins-Smith, Kim Klockow, **Matthew C. Nowlin**, and Carol L. Silva. 2012. \`\`Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns.'' *Weather, Climate, and Society*, 4(2): 132--144.
+
+-   **Nowlin, Matthew C.** 2011. \`\`Theories of the Policy Process: State of the Research and Emerging Trends.'' *Policy Studies Journal*, 39(s1): 41--60.
+
+    -   *Excerpted in*: Theodoulou, Stella Z., and Matthew A. Cahn (eds). 2013. *Public Policy: The Essential Readings*. 2nd Edition. Pearson: New York, NY. pgs. 190--195 <i class="fas fa-lock"></i> Gated url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0072.2010.00389_4.x
+
+-   Jenkins-Smith, Hank C., Carol L. Silva, Carol L., **Matthew C. Nowlin**, and Grant deLozier. 2011. \`\`Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility.'' *Risk Analysis*, 31(4): 629--644.
+
+-   **Nowlin, Matthew C.** 2008. \`\`The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families.'' *Oklahoma Politics*, Vol. 17: 111-131.
+
+## In-progress
