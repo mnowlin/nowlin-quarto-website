@@ -2,4 +2,45 @@
 title: "Teaching"
 ---
 
-# Courses 
+At the [College of Charleston](http://cofc.edu/), I have had the opportunity to teach courses at every level from freshman to a senior capstone course to graduate courses. Many of the courses I teach serve curriculum needs in several departments and programs including [Political Science](https://polisci.cofc.edu/), [Master of Public Administration](https://puba.cofc.edu/), and [Master of Environmental and Sustainability Studies](https://mes.cofc.edu/). Regardless of the level, I try to guide students in becoming sophisticated users of information and engaged participants in social and political life. 
+
+Below you will find links to my most recent syllabi for the various undergraduate and graduate courses I have caught while at the [College of Charleston](http://cofc.edu/). 
+
+# Courses
+
+## Recent Courses 
+
+### Introduction to Public Policy
+<p class="text-muted">POLI 211 | Undergraduate</p> 
+<a href="https://www.dropbox.com/s/lporh9mtx73wqwk/POLI211-syllabus-final.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2022</span></a > 
+
+### Environmental Policy
+<p class="text-muted">POLI 307 | Undergraduate</p>
+<a href="https://www.dropbox.com/s/rrl1o8wr0yxntb6/POLI307-syllabus-final.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2022</span></a > 
+
+### Governance of Social-Ecological Systems
+<p class="text-muted">POLI 443 / EVSS 595 | Cross-listed undergraduate / graduate</p>
+<div><a href="https://www.dropbox.com/s/8ekxa6zsk70lidk/POLI443syllabus-undergrad-final.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Undergraduate syllabus fall 2021</span></a > 
+<a href="https://www.dropbox.com/s/5mv45lr2qbkzs8j/EVSS595syllabus-grad-final.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Graduate syllabus fall 2021</span></a >
+</div>
+
+### Environmental Law and Regulatory Policy
+<p class="text-muted">EVSS/PUBA 534 | Graduate</p> 
+<a href="https://www.dropbox.com/s/87rticvwkab5zn7/EVSS-PUBA534-syllabus-final.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2022 </span></a >
+
+### Foundations of Public Sector Management and Leadership 
+<p class="text-muted">PUBA 600 | Graduate</p> 
+<a href="https://www.dropbox.com/s/x0r6mrcc01r9is2/PUBA600Syllabus.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus fall 2022 (Express I)</span></a > 
+
+<!-- 
+_A graduate course that examines the development of public administration and a field of study_. 
+-->
+
+### Public Policy
+<p class="text-muted">EVSS/PUBA 602 | Graduate</p> 
+<a href="https://www.dropbox.com/s/4pzppngvvrlxtkb/EVSS-PUBA602Syllabus.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus fall 2022 </span></a > 
+
+
+<!-- ## Past Courses -->
+ 
+

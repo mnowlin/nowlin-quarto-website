@@ -6,8 +6,11 @@ title: ""
 
 ![](book.jpg)
 
-<div><a href="https://www.routledge.com/Environmental-Policymaking-in-an-Era-of-Climate-Change-1st-Edition/Nowlin/p/book/9781138216938"> 
-<span class="badge bg-primary">Publisher</span></a > <a href="https://www.amazon.com/Environmental-Policymaking-Era-Climate-Change/dp/1138216933/ref=sr_1_2?keywords=Environmental+Policymaking+in+an+Era+of+Climate+Change&qid=1560292196&s=gateway&sr=8-2"><span class="badge bg-primary">{{< fa brands amazon >}} Amazon</span></a > </div>
+<div>
+
+<a href="https://www.routledge.com/Environmental-Policymaking-in-an-Era-of-Climate-Change-1st-Edition/Nowlin/p/book/9781138216938"> [Publisher]{.badge .bg-primary}</a > <a href="https://www.amazon.com/Environmental-Policymaking-Era-Climate-Change/dp/1138216933/ref=sr_1_2?keywords=Environmental+Policymaking+in+an+Era+of+Climate+Change&qid=1560292196&s=gateway&sr=8-2">[{{< fa brands amazon >}} Amazon]{.badge .bg-primary}</a >
+
+</div>
 
 ## About
 
@@ -15,4 +18,15 @@ As the world considers how to deal with the impacts of a changing climate, it's 
 
 Divided into two sections, the book incorporates insights from political science and public policy to provide the reader with a better understanding of how environmental policy decisions are made. Part I offers a framework for understanding environmental policymaking, exploring the history of environmental policy, and discussing the importance of values in environmental policy. Part II applies the framework to the issue of climate change, focusing on agenda-setting and the role of formal institutions in the policymaking process, covering topics that include Congress, the Executive and Judicial branches, and how climate change cuts across policy subsystem boundaries. By placing specific climate change case studies in a broader context, Environmental Policymaking in an Era of Climate Change will help students enrolled in political science, public administration, public policy, and environmental studies courses -- as well as all those interested in the impacts of policy on climate change -- to understand what is, and will likely continue to be, one of the most pressing policy issues of our time.
 
-**Nowlin, Matthew C.** 2019. *Environmental Policymaking in an Era of Climate Change*. New York, NY: Routledge. 
+## BibTeX citation 
+
+```bibtex
+@book{nowlinEnvironmentalPolicymakingEra2019,
+	address = {New York, NY},
+	title = {Environmental {Policymaking} in an {Era} of {Climate} {Change}},
+	publisher = {Routledge},
+	author = {Nowlin, Matthew C.},
+	year = {2019}
+}
+```
+

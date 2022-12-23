@@ -7,16 +7,20 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "{{< fa solid house >}}"
       - research.qmd
       - teaching.qmd
     right:
-      - href: https://www.dropbox.com/s/nm5uajd5txnhg6v/nowlin-cv-short.pdf?dl=0
-        text: CV
       - icon: envelope
         href: mailto:nowlinmc@cofc.edu
-      - icon: google
+      - href: https://www.dropbox.com/s/nm5uajd5txnhg6v/nowlin-cv-short.pdf?dl=0
+        text: "{{< ai cv >}}"
+      - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=xu7Y7_QAAAAJ&hl=en
+      - text: "{{< fa brands orcid >}}"
+        href: https://orcid.org/0000-0002-0513-3756
+      - text: "{{< ai osf >}}"
+        href: https://osf.io/j7nbz/
 
   page-footer:
     left:
@@ -30,7 +34,8 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    mainfont: EB Garamond
     toc: true
 
-editor: visual
+
 
