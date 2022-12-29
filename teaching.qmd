@@ -31,6 +31,13 @@ Below you will find links to my most recent syllabi for the various undergraduat
 <p class="text-muted">EVSS/PUBA 534 | Graduate</p> 
 <a href="https://www.dropbox.com/s/87rticvwkab5zn7/EVSS-PUBA534-syllabus-final.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2022 </span></a >
 
+### Research and Management in Environmental Organizations 
+<p class="text-muted">EVSS/PUBA 551 | Graduate</p>
+<div>
+<a href=""><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2023</span></a > 
+<a href="https://github.com/mnowlin/evssPuba551"><span class="badge bg-primary">{{< fa brands github >}} Course materials </span></a > 
+</div>
+
 ### Foundations of Public Sector Management and Leadership 
 <p class="text-muted">PUBA 600 | Graduate</p> 
 <a href="https://www.dropbox.com/s/x0r6mrcc01r9is2/PUBA600Syllabus.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus fall 2022 (Express I)</span></a > 
