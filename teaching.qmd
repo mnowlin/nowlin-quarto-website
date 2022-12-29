@@ -34,7 +34,7 @@ Below you will find links to my most recent syllabi for the various undergraduat
 ### Research and Management in Environmental Organizations 
 <p class="text-muted">EVSS/PUBA 551 | Graduate</p>
 <div>
-<a href=""><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2023</span></a > 
+<a href="https://www.dropbox.com/s/c6uc1ybu4i32tx4/EVSS-PUBA551Syllabus.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2023</span></a > 
 <a href="https://github.com/mnowlin/evssPuba551"><span class="badge bg-primary">{{< fa brands github >}} Course materials </span></a > 
 </div>
 
