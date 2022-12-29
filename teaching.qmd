@@ -16,7 +16,10 @@ Below you will find links to my most recent syllabi for the various undergraduat
 
 ### Environmental Policy
 <p class="text-muted">POLI 307 | Undergraduate</p>
-<a href="https://www.dropbox.com/s/rrl1o8wr0yxntb6/POLI307-syllabus-final.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2022</span></a > 
+<div>
+<a href="https://www.dropbox.com/s/9avahhsjmej4tec/POLI307Syllabus.pdf?dl=0"><span class="badge bg-primary">{{< fa regular file-pdf >}} Syllabus spring 2023</span></a > 
+<a href="https://github.com/mnowlin/poli307"><span class="badge bg-primary">{{< fa brands github >}} Course materials </span></a > 
+</div>
 
 ### Governance of Social-Ecological Systems
 <p class="text-muted">POLI 443 / EVSS 595 | Cross-listed undergraduate / graduate</p>
