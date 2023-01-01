@@ -24,11 +24,10 @@ website:
 
   page-footer:
     left:
-      - "Copyright 2022, Matthew C. Nowlin"
-    right:
-      - icon: github
-        href: https://github.com/mnowlin/nowlin-quarto-website
-
+      - "Copyright 2023, Matthew C. Nowlin"
+    right:  |
+      <span class="faux-block">Made using {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source code {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
 
 format:
   html:
