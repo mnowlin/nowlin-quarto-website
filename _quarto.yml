@@ -26,9 +26,11 @@ website:
     left: |
         <span class="faux-block">{{< fa copyright >}} 2023, Matthew C. Nowlin</span>
     right:  |
+      <div align="right">
       <span class="faux-block">Made using {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span> <br>
       <span class="faux-block">View the source code [{{< fa brands github >}} GitHub](https://github.com/mnowlin/nowlin-quarto-website)</span>
-
+      </div>
+      
 format:
   html:
     theme: cosmo
