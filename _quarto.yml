@@ -23,11 +23,11 @@ website:
         href: https://osf.io/j7nbz/
 
   page-footer:
-    left:
+    left: |
+      <span class="faux-block">Made using {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
       - "Copyright 2023, Matthew C. Nowlin"
     right:  |
-      <span class="faux-block">Made using {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
-      <span class="faux-block">[View the source code {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
+      <span class="faux-block">View the source code [{{< fa brands github >}} GitHub](https://github.com/mnowlin/nowlin-quarto-website)</span>
 
 format:
   html:
