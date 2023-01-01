@@ -6,7 +6,11 @@ title: ""
 
 ![](book.jpg)
 
-<div><a href="https://shareok.org/handle/11244/52244"> <span class="badge bg-primary">Publisher</span></a > <a href="https://shareok.org/bitstream/handle/11244/52244/Quantitative%20Research%20Methods%20For%20Political%20Science%2c%20Public%20Policy%20and%20Public%20Administration%2c%20With%20Applications%20in%20R.pdf?sequence=15&isAllowed=y"><span class="badge bg-primary">{{< fa regular file-pdf >}} Open source</span></a > <a href="https://github.com/ripberjt/qrmtextbook"><span class="badge bg-primary">{{< fa brands github >}} Code </span></a > </div>
+<div>
+<a href="https://shareok.org/handle/11244/52244"> <span class="badge bg-primary">Publisher</span></a > 
+<a href="https://shareok.org/bitstream/handle/11244/52244/Quantitative%20Research%20Methods%20For%20Political%20Science%2c%20Public%20Policy%20and%20Public%20Administration%2c%20With%20Applications%20in%20R.pdf?sequence=15&isAllowed=y"><span class="badge bg-primary">{{< fa regular file-pdf >}} Open source</span></a > 
+<a href="https://github.com/ripberjt/qrmtextbook"><span class="badge bg-primary">{{< fa brands github >}} Code </span></a > 
+</div>
 
 
 ## About
@@ -17,4 +21,16 @@ The focus of this book is on using quantitative research methods to test hypothe
 For more information and reviews see [here](https://open.umn.edu/opentextbooks/textbooks/quantitative-research-methods-for-political-science-public-policy-and-public-administration-with-applications-in-r-3rd-edition)
 
 
-Jenkins-Smith, Hank C., Joseph T. Ripberger, Gary Copeland, **Matthew C. Nowlin**, Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. *Quantitative Research Methods for Political Science, Public Policy, and Public Administration*. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource, doi: <a href="http://dx.doi.org/10.15763/11244/52244" itemprop="url">`10.15763/11244/52244`</span></a>
+## BibTex citation
+
+```bibtex
+@book{jenkins-smithQuantitativeResearchMethods2017,
+  title = {Quantitative {{Research Methods}} for {{Political Science}}, {{Public Policy}} and {{Public Administration}} ({{With Applications}} in {{R}}): 3rd {{Edition}}},
+  author = {{Jenkins-Smith}, Hank C. and Ripberger, Joseph T. and Copeland, Gary and Nowlin, Matthew C. and Hughes, Tyler and Fister, Aaron L. and Wehde, Wesley},
+  year = {2017},
+  publisher = {{University of Oklahoma Libraries}},
+  address = {{Norman, OK}},
+  doi = {10.15763/11244/52244},
+}
+```
+
