@@ -73,11 +73,17 @@ Below you will find links to my publications including peer-reviewed books, arti
 
 #### **Nowlin, Matthew C.**. 2021. "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences." *Public Understanding of Science*, 30(3): 331-348.
 
-<div><a href="https://doi.org/10.1177/0963662520978567"> <span class="badge bg-primary">Published version</span></a ></div>
+<div>
+<a href="https://doi.org/10.1177/0963662520978567"> <span class="badge bg-primary">Published version</span></a >
+<a href="/publications/tech/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 
 #### Wehde, Welsey and **Matthew C. Nowlin**. 2021. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas." *Publius: The Journal of Federalism*, 51(2): 212-237.
 
-<div><a href="https://academic.oup.com/publius/article-abstract/51/2/212/5943216?redirectedFrom=fulltext"> <span class="badge bg-primary">Published version</span></a ></div>
+<div>
+<a href="https://academic.oup.com/publius/article-abstract/51/2/212/5943216?redirectedFrom=fulltext"> <span class="badge bg-primary">Published version</span></a >
+<a href="/publications/fed-public/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 
 #### Bundrick Jr., M. Lee, and **Matthew C. Nowlin**. 2020. "Place, Values, and Public Opinion About Climate Change in South Carolina." *Journal of Political Science*, 40: 85-109.
 
