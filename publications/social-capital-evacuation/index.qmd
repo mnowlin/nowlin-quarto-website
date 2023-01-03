@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+# Social Capital and Hurricane Warning Response
+
+<a href="https://www.sciencedirect.com/science/article/pii/S2212420921004970"> <span class="badge bg-primary">Published version</span></a >
+
+
+## Abstract
+
+Social capital — resources that are available as a result of social relationships and connections — has been shown to be an important component across the various stages of a natural disaster, such as a hurricane. Additionally, research has shown that the importance of the different types of social capital — bonding, bridging, and linking — can vary as the disaster progresses from preparation, to the immediate aftermath, to long-term recovery. Yet, findings are not consistent regarding the impact of social capital on taking protective action (e.g., evacuation, shelter in home or community) following a hurricane warning. In this paper, we leverage an original survey of 1450 residents living in coastal communities in the Southeast and Gulf Coast regions of the United States to examine the role of social capital in stated behaviors in response to a hurricane warning. Additionally, we examine the stated likelihood of evacuating if advised to by close contacts (friends, family, and co-workers) and elite sources (emergency management officials, elected officials, and the media). We find that bonding social capital is associated with an increased likelihood to evacuate and shelter in home as well as an increased likelihood to listen to close contacts that encourage evacuation. In addition, we find that linking social capital is associated with an increased likelihood of evacuation if encouraged to by elite sources.
+
+## BibTeX citation 
+
+```bibtex
+@article{nowlinSocialCapitalHurricane2021,
+  title = {Social {{Capital}} and {{Hurricane Warning Response}}},
+  author = {Nowlin, Matthew C. and Wehde, Wesley},
+  year = {2021},
+  month = nov,
+  journal = {International Journal of Disaster Risk Reduction},
+  volume = {65},
+  pages = {102536},
+  issn = {2212-4209},
+  doi = {10.1016/j.ijdrr.2021.102536}
+}
+```
+

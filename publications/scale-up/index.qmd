@@ -1,0 +1,27 @@
+---
+title: ""
+---
+
+# The Internal Dynamics of “Scaling up” Deliberative Mini-Publics
+
+<a href="https://journals.sagepub.com/eprint/DYGPCUNWRHWWFKQGIYKN/full"> <span class="badge bg-primary">Published version</span></a >
+
+## Abstract
+Recent deliberative systems research has emphasized the need to “scale up” deliberative mini-publics by exploring connections between mini-publics and broader arenas of policymaking. Less is known, however, about how the policy environment in a state or region might itself influence a deliberative event. In this article, we set out to examine how the internal dynamics of mini-publics are affected by the scaling-up process of connecting to larger policymaking domains. To better understand how the external role of deliberation affects the internal dynamics, we analyze two notable cases of deliberative forums addressing public problems. In both cases, the 2017 Our Coastal Future Forum in South Carolina and the 2020 Oregon Citizens’ Assembly on coronavirus disease-19 recovery, citizen participants grappled with the challenge of scaling up to larger policy outcomes. We conduct a thematic analysis of transcripts from both events, focusing on how citizens discuss their role in influencing policy and talk about the potential for policy output from the mini-publics. The analysis reveals that the scaling-up process invites a pragmatic orientation within deliberation, centering on issues of efficiency, scope, and efficacy.
+
+## BibTeX citation 
+
+```bibtex
+@article{rountreeInternalDynamicsScaling2022a,
+  title = {The {{Internal Dynamics}} of ``{{Scaling}} up'' {{Deliberative Mini-Publics}}},
+  author = {Rountree, John and Anderson, Chris and Reedy, Justin and Nowlin, Matthew C.},
+  year = {2022},
+  month = jul,
+  journal = {Communication and the Public},
+  volume = {7},
+  number = {3},
+  pages = {146--164},
+  publisher = {{SAGE PublicationsSage UK: London, England}},
+  doi = {10.1177/20570473221106025}
+```
+

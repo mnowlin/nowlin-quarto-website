@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-Below you will find links to my publications including peer-reviewed books, articles, and conference proceedings. I also provide links to [works in progress](#works-in-progress) through the [Open Science Framework](https://osf.io/). 
+Below you will find links to my publications including peer-reviewed books, articles, and conference proceedings. I also provide links to [works in progress](#works-in-progress) through the [Open Science Framework (OSF)](https://osf.io/). 
 
 # Publications
 
@@ -30,29 +30,46 @@ Below you will find links to my publications including peer-reviewed books, arti
 
 #### Rountree, John, Chris Anderson, Justin Reedy, and **Matthew C. Nowlin**. 2022. "The Internal Dynamics of 'Scaling Up' Deliberative Mini-Publics." *Communication and the Public*, 7(3): 146-164.
 
-<div><a href="https://journals.sagepub.com/eprint/DYGPCUNWRHWWFKQGIYKN/full"> <span class="badge bg-primary">Published version</span></a ></div>
+<div>
+<a href="https://journals.sagepub.com/eprint/DYGPCUNWRHWWFKQGIYKN/full"> <span class="badge bg-primary">Published version</span></a>
+<a href="/publications/scale-up/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 
 #### **Nowlin, Matthew C.** 2022. "Who Should 'Do More' about Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions across Actors and Governments." *Review of Policy Research*, 39(4): 468-485.
 
-<div><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12468"> <span class="badge bg-primary">Published version</span></a ></div>
+<div>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12468"> <span class="badge bg-primary">Published version</span></a >
+<a href="/publications/do-more/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 
 #### **Nowlin, Matthew C.**, Maren Trochmann, and Thomas Rabovsky. 2022. "Advocacy Coalitions and Political Control." *Politics and Policy*, 50(2): 201-224
 
-<div><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/polp.12458"> <span class="badge bg-primary">Published version</span></a ></div>
+<div>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/polp.12458"> <span class="badge bg-primary">Published version</span></a >
+<a href="/publications/acf-pc/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 
 #### Hawes, Rachel and **Matthew C. Nowlin**. 2022. "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States." *Energy Research and Social Science*, 85.
 
-<div><a href="https://www.sciencedirect.com/science/article/abs/pii/S2214629621005065"> <span class="badge bg-primary">Published version</span></a ></div>
+<div>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2214629621005065"> <span class="badge bg-primary">Published version</span></a >
+<a href="/publications/science-politics/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 
 #### **Nowlin, Matthew C.** 2021. "Policy Learning and Information Processing." *Policy Studies Journal*, 49(4): 1019-1039.
 
-<div><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12397"> <span class="badge bg-primary">Published version</span></a > 
+<div>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12397"> <span class="badge bg-primary">Published version</span></a > 
 <a href="/publications/policy-learning/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
 </div>
 
 #### **Nowlin, Matthew C.** and Wesley Wehde. 2021. "Social Capital and Hurricane Warning Response." *International Journal of Disaster Risk Reduction*, 65.
 
-<div><a href="https://www.sciencedirect.com/science/article/pii/S2212420921004970"> <span class="badge bg-primary">Published version</span></a ></div>
+<div>
+<a href="https://www.sciencedirect.com/science/article/pii/S2212420921004970"> <span class="badge bg-primary">Published version</span></a >
+<a href="/publications/social-capital-evacuation/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
+
 
 #### **Nowlin, Matthew C.**. 2021. "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences." *Public Understanding of Science*, 30(3): 331-348.
 
@@ -140,6 +157,6 @@ Below you will find links to my publications including peer-reviewed books, arti
 #### **Nowlin, Matthew C.** _In progress_. "Policy Beliefs, Belief Uncertainty, and Policy Learning"
 * _Paper being prepared for the [Conference on Policy Process Research](https://publicaffairs.ucdenver.edu/research-and-impact/research-centers/center-for-policy-and-democracy/conference-on-policy-process-research) in January, 2023_.
 
-<a href="https://osf.io/m9bw7/?view_only=1b413472e8214e0398d9a614bce73b35"><span class="badge bg-primary">{{< ai osf >}} Materials</span></a > 
+<a href="https://osf.io/m9bw7/?view_only=1b413472e8214e0398d9a614bce73b35"><span class="badge bg-primary">{{< ai osf >}} Materials (OSF)</span></a > 
 
 

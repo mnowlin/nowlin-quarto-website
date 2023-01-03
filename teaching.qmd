@@ -4,7 +4,7 @@ title: "Teaching"
 
 At the [College of Charleston](http://cofc.edu/), I have had the opportunity to teach courses at every level from freshman to a senior capstone course to graduate courses. Many of the courses I teach serve curriculum needs in several departments and programs including [Political Science](https://polisci.cofc.edu/), [Master of Public Administration](https://puba.cofc.edu/), and [Master of Environmental and Sustainability Studies](https://mes.cofc.edu/). Regardless of the level, I try to guide students in becoming sophisticated users of information and engaged participants in social and political life. 
 
-Below you will find links to my most recent syllabi for the various undergraduate and graduate courses I have caught while at the [College of Charleston](http://cofc.edu/). 
+Below you will find links to my most recent syllabi as well as [{{< fa brands github >}} repositories](https://github.com/mnowlin) of course materials for some of the various undergraduate and graduate courses I have caught while at the [College of Charleston](http://cofc.edu/). 
 
 # Courses
 

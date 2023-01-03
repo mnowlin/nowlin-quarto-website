@@ -1,0 +1,28 @@
+---
+title: ""
+---
+
+# Advocacy Coalitions and Political Control
+
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/polp.12458"> <span class="badge bg-primary">Published version</span></a >
+
+## Abstract
+
+The Advocacy Coalition Framework (ACF) posits that policy actors, including elected officials and bureaucrats, aggregate into coalitions based on shared beliefs and coordinate to achieve policy objectives. Yet, bureaucrats are often subject to political control mechanisms understood within a principal-agent framework. Combining insights from principal-agent theory and the ACF, we explore the nature of principal-agent relationships within and across advocacy coalitions in the United States using case studies of nuclear waste management and fair housing policy. Specifically, we develop three propositions regarding principals and agents as members of advocacy coalitions and examine those propositions by comparing the two case studies. We find that powerful elected officials and expert bureaucrats are important resources for coalitions; bureaucrats are in coalitions but face cross-pressure from principals in opposing coalitions; and control mechanisms embedded in policy designs by principals can limit bureaucratic discretion in a way that aligns with coalition goals.
+
+## BibTeX citation 
+
+```bibtex
+@article{nowlinAdvocacyCoalitionsPolitical2022,
+  title = {Advocacy {{Coalitions}} and {{Political Control}}},
+  author = {Nowlin, Matthew C. and Trochmann, Maren and Rabovsky, Thomas M.},
+  year = {2022},
+  journal = {Politics \& Policy},
+  volume = {50},
+  number = {2},
+  pages = {201--224},
+  issn = {1747-1346},
+  doi = {10.1111/polp.12458}
+}
+```
+
