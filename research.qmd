@@ -161,8 +161,9 @@ Below you will find links to my publications including peer-reviewed books, arti
 ## Works in Progress
 
 #### **Nowlin, Matthew C.** _In progress_. "Policy Beliefs, Belief Uncertainty, and Policy Learning"
-* _Paper being prepared for the [Conference on Policy Process Research](https://publicaffairs.ucdenver.edu/research-and-impact/research-centers/center-for-policy-and-democracy/conference-on-policy-process-research) in January, 2023_.
 
-<a href="https://osf.io/m9bw7/?view_only=1b413472e8214e0398d9a614bce73b35"><span class="badge bg-primary">{{< ai osf >}} Materials (OSF)</span></a > 
-
+<div>
+<a href="https://osf.io/m9bw7/?view_only=1b413472e8214e0398d9a614bce73b35"><span class="badge bg-primary">{{< ai osf >}} Materials (OSF)</span></a >
+<a href="/publications/minipublic-learning/index.html" itemprop="url"><span class="badge bg-primary">More information {{< fa solid angles-right >}}</span></a >
+</div>
 

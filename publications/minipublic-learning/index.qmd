@@ -1,0 +1,20 @@
+---
+title: ""
+---
+
+# Policy Beliefs, Belief Uncertainty, and Policy Learning
+
+_Currently under review_ 
+
+<a href="https://osf.io/m9bw7/?view_only=1b413472e8214e0398d9a614bce73b35"><span class="badge bg-primary">{{< ai osf >}} Materials (OSF)</span></a >
+
+## Abstract 
+Within the Advocacy Coalition Framework (ACF), policy-oriented learning is understood as a change in policy beliefs. Additional work has noted that belief reinforcement, not just belief change, is also a potential policy learning outcome. Yet, little work has attempted to reconcile how learning could involve both belief change and belief reinforcement. In this paper, I propose a policy-oriented learning model where policy beliefs -- deep core, policy core, or secondary aspects -- are understood as having a distribution with a central tendency (i.e., the belief) as well as variance (i.e., certainty associated with the belief). With policy beliefs considered as distributions, learning can be understood as changes in beliefs (i.e., a change in the central tendency) as well as changes in certainty (i.e., variance) such as a decrease in belief uncertainty (i.e., reinforcement). Using data from a deliberative forum that brought together various stakeholders including experts, natural resource managers, and the public to discuss environmental issues impacting coastal communities, I explore changes in concern regarding several key coastal issues before and after the forum. Additionally, I examine the association between concern following the forum and self-reported learning. I find support for the proposed policy-oriented learning model as shown by significant changes in average concern as well as average variance among participants across several of the issues discussed. 
+
+## Previous Version 
+An earlier version of this paper was presented at the [Conference on Policy Process Research](https://publicaffairs.ucdenver.edu/research-and-impact/research-centers/center-for-policy-and-democracy/conference-on-policy-process-research) in January, 2023. 
+
+<div>
+<a href="/publications/minipublic-learning/Nowlin-COPPR2023-policy-learning.pdf"><span class="badge bg-primary">{{< fa regular file-pdf >}} COPPR 2023 paper</span></a > 
+<a href="/publications/minipublic-learning/Nowlin-COPPR2023.pdf"><span class="badge bg-primary">{{< fa solid chalkboard >}} COPPR 2023 slides</span></a >
+</div>

@@ -60,7 +60,7 @@
     "href": "research.html#works-in-progress",
     "title": "Research",
     "section": "Works in Progress",
-    "text": "Works in Progress\n\nNowlin, Matthew C. In progress. “Policy Beliefs, Belief Uncertainty, and Policy Learning”\n\nPaper being prepared for the Conference on Policy Process Research in January, 2023.\n\n Materials (OSF)"
+    "text": "Works in Progress\n\nNowlin, Matthew C. In progress. “Policy Beliefs, Belief Uncertainty, and Policy Learning”\n\n Materials (OSF) More information"
   },
   {
     "objectID": "publications/env-book/index.html",
@@ -159,5 +159,12 @@
     "title": "Matthew C. Nowlin",
     "section": "",
     "text": "Published version\n\n\nUsing survey data collected from residents of counties along the South Atlantic and Gulf Coasts of the United States, we use innovative compositional data analysis techniques to examine individuals’ assignment of responsibility for hurricane preparedness across federal, state, and local officials as well as among household residents and their community. We find that the public assigns limited responsibility for hurricane preparedness to governments. Rather, respondents, especially conservatives and those with low trust in government, view individuals themselves as responsible for preparedness. Our results emphasize the role of ideology and the individualistic culture of American politics. These results also have implications for scholars who study individual attribution responsibility in multi-level systems and who may assume that individuals will assign responsibility to one of the various levels of government; however, focusing on disaster preparation in particular, our study shows that a significant number of individuals may not assign responsibility to government at any level.\n\n\n\n@article{wehdePublicAttributionResponsibility2021,\n  title = {Public {{Attribution}} of {{Responsibility}} for {{Disaster Preparedness}} across {{Three Levels}} of {{Government}} and the {{Public}}: {{Lessons}} from a {{Survey}} of {{Residents}} of the {{U}}.{{S}}. {{South Atlantic}} and {{Gulf Coast}}},\n  shorttitle = {Public {{Attribution}} of {{Responsibility}} for {{Disaster Preparedness}} across {{Three Levels}} of {{Government}} and the {{Public}}},\n  author = {Wehde, Wesley and Nowlin, Matthew C.},\n  year = {2021},\n  journal = {Publius: The Journal of Federalism},\n  volume = {51},\n  number = {2},\n  pages = {212--237},\n  doi = {10.1093/publius/pjaa037}\n}"
+  },
+  {
+    "objectID": "publications/minipublic-learning/index.html",
+    "href": "publications/minipublic-learning/index.html",
+    "title": "Matthew C. Nowlin",
+    "section": "",
+    "text": "Currently under review\n Materials (OSF)\n\n\nWithin the Advocacy Coalition Framework (ACF), policy-oriented learning is understood as a change in policy beliefs. Additional work has noted that belief reinforcement, not just belief change, is also a potential policy learning outcome. Yet, little work has attempted to reconcile how learning could involve both belief change and belief reinforcement. In this paper, I propose a policy-oriented learning model where policy beliefs – deep core, policy core, or secondary aspects – are understood as having a distribution with a central tendency (i.e., the belief) as well as variance (i.e., certainty associated with the belief). With policy beliefs considered as distributions, learning can be understood as changes in beliefs (i.e., a change in the central tendency) as well as changes in certainty (i.e., variance) such as a decrease in belief uncertainty (i.e., reinforcement). Using data from a deliberative forum that brought together various stakeholders including experts, natural resource managers, and the public to discuss environmental issues impacting coastal communities, I explore changes in concern regarding several key coastal issues before and after the forum. Additionally, I examine the association between concern following the forum and self-reported learning. I find support for the proposed policy-oriented learning model as shown by significant changes in average concern as well as average variance among participants across several of the issues discussed.\n\n\n\nAn earlier version of this paper was presented at the Conference on Policy Process Research in January, 2023.\n\n COPPR 2023 paper  COPPR 2023 slides"
   }
 ]
