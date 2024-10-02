@@ -1,6 +1,6 @@
 ---
 title: "Matthew C. Nowlin"
-subtitle: "Associate Professor of Political Science, [College of Charleston](https://cofc.edu/)"
+subtitle: "MPA Director, Associate Professor of Political Science, [College of Charleston](https://cofc.edu/)"
 image: avatar.jpg
 about: 
   template: trestles
@@ -26,7 +26,7 @@ about:
 
 # About Me 
 
-I am an Associate Professor of [Political Science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). For academic year 2022-2023, I am the interim director of the [Master of Public Administration](https://puba.cofc.edu/) program at the College of Charleston.  
+I am the Director of the [Master of Public Administration](https://puba.cofc.edu/) program and an Associate Professor of [Political Science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). 
 
 **Please see my [cv](https://www.dropbox.com/scl/fi/43evkcohkivmvzr5br6u5/nowlin-cv-short.pdf?rlkey=15bez6rqphm0nhwuuoepgstx8&st=dxe8d1op&dl=0)**. 
 
