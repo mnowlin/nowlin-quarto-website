@@ -2,7 +2,7 @@
 title: "Matthew C. Nowlin"
 subtitle: > 
   MPA Director <br>
-  Associate Professor of Political Science
+  Associate Professor of Political Science <br>
   [College of Charleston](https://cofc.edu/)
 image: avatar.jpg
 about: 
