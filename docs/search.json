@@ -65,7 +65,7 @@
   {
     "objectID": "publications/env-book/index.html",
     "href": "publications/env-book/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Environmental Policymaking in an Era of Climate Change",
     "section": "",
     "text": "Publisher  Amazon\n\n\n\nAs the world considers how to deal with the impacts of a changing climate, it’s vital that we understand the ways in which the United States’ policymaking process addresses environmental issues. A mix of existing theory and original analysis, Environmental Policymaking in an Era of Climate Change applies recent policy scholarship to questions of environmental governance, with a particular focus on climate change. The book examines how competing political actors influence policies within and across institutions, focusing on both a macro-level, where formal bodies set the agenda, and a meso-level, where issues are contained within policy subsystems.\nDivided into two sections, the book incorporates insights from political science and public policy to provide the reader with a better understanding of how environmental policy decisions are made. Part I offers a framework for understanding environmental policymaking, exploring the history of environmental policy, and discussing the importance of values in environmental policy. Part II applies the framework to the issue of climate change, focusing on agenda-setting and the role of formal institutions in the policymaking process, covering topics that include Congress, the Executive and Judicial branches, and how climate change cuts across policy subsystem boundaries. By placing specific climate change case studies in a broader context, Environmental Policymaking in an Era of Climate Change will help students enrolled in political science, public administration, public policy, and environmental studies courses – as well as all those interested in the impacts of policy on climate change – to understand what is, and will likely continue to be, one of the most pressing policy issues of our time.\n\n\n\n@book{nowlinEnvironmentalPolicymakingEra2019,\n    address = {New York, NY},\n    title = {Environmental {Policymaking} in an {Era} of {Climate} {Change}},\n    publisher = {Routledge},\n    author = {Nowlin, Matthew C.},\n    year = {2019}\n}"
   },
@@ -79,14 +79,14 @@
   {
     "objectID": "publications/policy-learning/index.html",
     "href": "publications/policy-learning/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Policy Learning and Information Processing",
     "section": "",
     "text": "Published version\n\n\n\nPolicy learning is an important concept in the study of policymaking, yet it is difficult to model and empirically estimate. Additionally, work on policy learning has not fully drawn from the work on information processing in the policy process. In this paper, I propose a model of policy learning that incorporates the Advocacy Coalition Framework’s notion of policy‐oriented learning and the theory of disproportionate information processing within a Bayesian learning framework. Policy learning through Bayesian updating occurs as individuals adjust their prior beliefs in light of new information, and in the approach posited here, learning is a function of the strength of prior beliefs and the weight given to new information. Additionally, learning is thought to occur only when subsequent beliefs move in the direction of the information. Then, I demonstrate the policy learning model using public opinion data about Yucca Mountain, a proposed repository site for nuclear waste. Finally, I conclude with suggesting ways in which the policy learning model can be incorporated into current policy learning theories and frameworks.\n\n\n\n\n\n\nStylized Examples of Policy Learning with Probability Distributions of Beliefs and Information Weights\n\n\n\n\n\n@article{nowlinPolicyLearningInformation2021,\n  title = {Policy {{Learning}} and {{Information Processing}}},\n  author = {Nowlin, Matthew C.},\n  year = {2021},\n  journal = {Policy Studies Journal},\n  volume = {49},\n  number = {4},\n  pages = {1019--1039},\n  issn = {1541-0072},\n  doi = {10.1111/psj.12397},\n}"
   },
   {
     "objectID": "publications/stats-book/index.html",
     "href": "publications/stats-book/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Quantitative Research Methods for Political Science, Public Policy, and Public Administration",
     "section": "",
     "text": "Publisher  Open source  Code \n\n\n\nThe focus of this book is on using quantitative research methods to test hypotheses and build theory in political science, public policy and public administration. It is designed for advanced undergraduate courses, or introductory and intermediate graduate-level courses. The first part of the book introduces the scientific method, then covers research design, measurement, descriptive statistics, probability, inference, and basic measures of association. The second part of the book covers bivariate and multiple linear regression using the ordinary least squares, the calculus and matrix algebra that are necessary for understanding bivariate and multiple linear regression, the assumptions that underlie these methods, and then provides a short introduction to generalized linear models. The book fully embraces the open access and open source philosophies. The book is freely available in the SHAREOK repository; it is written in R Markdown files that are available in a public GitHub repository; it uses and teaches R and RStudio for data analysis, visualization and data management; and it uses publicly available survey data (from the Meso-Scale Integrated Socio-geographic Network) to illustrate important concepts and methods. We encourage students to download the data, replicate the examples, and explore further! We also encourage instructors to download the R Markdown files and modify the text for use in different courses.\n\n\n\nFor more information and reviews see here\n\n\n\n@book{jenkins-smithQuantitativeResearchMethods2017,\n  title = {Quantitative {{Research Methods}} for {{Political Science}}, {{Public Policy}} and {{Public Administration}} ({{With Applications}} in {{R}}): 3rd {{Edition}}},\n  author = {{Jenkins-Smith}, Hank C. and Ripberger, Joseph T. and Copeland, Gary and Nowlin, Matthew C. and Hughes, Tyler and Fister, Aaron L. and Wehde, Wesley},\n  year = {2017},\n  publisher = {{University of Oklahoma Libraries}},\n  address = {{Norman, OK}},\n  doi = {10.15763/11244/52244},\n}"
   },
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Matthew C. Nowlin",
     "section": "",
-    "text": "About Me\nI am an Associate Professor of Political Science at the College of Charleston. For academic year 2022-2023, I am the interim director of the Master of Public Administration program at the College of Charleston.\nPlease see my cv.\nMy research and teaching interests are in public policy, with a specific interest in environmental policy and politics. My work includes such areas as theories of the policy process, policy learning, belief systems (specifically cultural theory), deliberation, climate change, energy, and natural hazards."
+    "text": "About Me\nI am the Director of the Master of Public Administration program and an Associate Professor of Political Science at the College of Charleston.\nPlease see my cv.\nMy research and teaching interests are in public policy, with a specific interest in environmental policy and politics. My work includes such areas as theories of the policy process, policy learning, belief systems (specifically cultural theory), deliberation, climate change, energy, and natural hazards."
   },
   {
     "objectID": "about.html",
@@ -107,64 +107,253 @@
   {
     "objectID": "Git Token.html",
     "href": "Git Token.html",
-    "title": "Matthew C. Nowlin",
+    "title": "GIT Token",
     "section": "",
-    "text": "GIT Token\nI don’t understand this but:\n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"
+    "text": "GIT Token\nTo update website, create new tokens here: https://github.com/settings/tokens?type=beta\nUsername: mnowlin\ncopy and paste token as the password\n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"
   },
   {
     "objectID": "publications/scale-up/index.html",
     "href": "publications/scale-up/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "The Internal Dynamics of “Scaling up” Deliberative Mini-Publics",
     "section": "",
-    "text": "Published version\n\n\nRecent deliberative systems research has emphasized the need to “scale up” deliberative mini-publics by exploring connections between mini-publics and broader arenas of policymaking. Less is known, however, about how the policy environment in a state or region might itself influence a deliberative event. In this article, we set out to examine how the internal dynamics of mini-publics are affected by the scaling-up process of connecting to larger policymaking domains. To better understand how the external role of deliberation affects the internal dynamics, we analyze two notable cases of deliberative forums addressing public problems. In both cases, the 2017 Our Coastal Future Forum in South Carolina and the 2020 Oregon Citizens’ Assembly on coronavirus disease-19 recovery, citizen participants grappled with the challenge of scaling up to larger policy outcomes. We conduct a thematic analysis of transcripts from both events, focusing on how citizens discuss their role in influencing policy and talk about the potential for policy output from the mini-publics. The analysis reveals that the scaling-up process invites a pragmatic orientation within deliberation, centering on issues of efficiency, scope, and efficacy.\n\n\n\n@article{rountreeInternalDynamicsScaling2022a,\n  title = {The {{Internal Dynamics}} of ``{{Scaling}} up'' {{Deliberative Mini-Publics}}},\n  author = {Rountree, John and Anderson, Chris and Reedy, Justin and Nowlin, Matthew C.},\n  year = {2022},\n  month = jul,\n  journal = {Communication and the Public},\n  volume = {7},\n  number = {3},\n  pages = {146--164},\n  publisher = {{SAGE PublicationsSage UK: London, England}},\n  doi = {10.1177/20570473221106025}"
+    "text": "Published version\n\n\nRecent deliberative systems research has emphasized the need to “scale up” deliberative mini-publics by exploring connections between mini-publics and broader arenas of policymaking. Less is known, however, about how the policy environment in a state or region might itself influence a deliberative event. In this article, we set out to examine how the internal dynamics of mini-publics are affected by the scaling-up process of connecting to larger policymaking domains. To better understand how the external role of deliberation affects the internal dynamics, we analyze two notable cases of deliberative forums addressing public problems. In both cases, the 2017 Our Coastal Future Forum in South Carolina and the 2020 Oregon Citizens’ Assembly on coronavirus disease-19 recovery, citizen participants grappled with the challenge of scaling up to larger policy outcomes. We conduct a thematic analysis of transcripts from both events, focusing on how citizens discuss their role in influencing policy and talk about the potential for policy output from the mini-publics. The analysis reveals that the scaling-up process invites a pragmatic orientation within deliberation, centering on issues of efficiency, scope, and efficacy.\n\n\n\n@article{rountreeInternalDynamicsScaling2022a,\n  title = {The {{Internal Dynamics}} of ``{Scaling} up'' {{Deliberative Mini-Publics}}},\n  author = {Rountree, John and Anderson, Chris and Reedy, Justin and Nowlin, Matthew C.},\n  year = {2022},\n  month = jul,\n  journal = {Communication and the Public},\n  volume = {7},\n  number = {3},\n  pages = {146--164},\n  publisher = {{SAGE PublicationsSage UK: London, England}},\n  doi = {10.1177/20570473221106025}"
   },
   {
     "objectID": "publications/do-more/index.html",
     "href": "publications/do-more/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Who Should “Do More” About Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions Across Actors and Governments",
     "section": "",
-    "text": "Published version\n\n\nUnder a polycentric approach to climate change, action is taken at different scales and across all levels of government and sectors of society. Some scholars have argued that such an approach is the best lens to view the governance of climate change and that a polycentric approach has advantages in addressing collective-action problems. However, taking a polycentric approach would require public support for action at multiple scales. The issue of climate change is polarized across political beliefs and cultural worldviews and little research has examined how the public views climate action at one level of government relative to others as well as relative to actions by the private sector and by individuals. Using an original survey of the US public from October 2017, I explore who it is that the public thinks should “do more” about climate change and the role that the cultural worldviews posited by cultural theory—hierarchical, egalitarian, individualist, and fatalist—plays in shaping those opinions. Overall, I find support for multiple actors doing more to address climate change, but with differences in support between egalitarians and individualists for actors overall and for the federal government in particular.\n\n\n\n\n\n\nOLS analysis of who should ‘do more’ about climate change by cultural type\n\n\n\n\n\n@article{nowlinWhoShouldMore2022,\n  title = {Who {{Should}} ``{{Do More}}'' {{About Climate Change}}? {{Cultural Theory}}, {{Polycentricity}}, and {{Public Support}} for {{Climate Change Actions Across Actors}} and {{Governments}}},\n  shorttitle = {Who {{Should}} ``{{Do More}}'' {{About Climate Change}}?},\n  author = {Nowlin, Matthew C.},\n  year = {2022},\n  journal = {Review of Policy Research},\n  volume = {39},\n  number = {4},\n  pages = {468--485},\n  issn = {1541-1338},\n  doi = {10.1111/ropr.12468}\n}"
+    "text": "Published version\n\n\nUnder a polycentric approach to climate change, action is taken at different scales and across all levels of government and sectors of society. Some scholars have argued that such an approach is the best lens to view the governance of climate change and that a polycentric approach has advantages in addressing collective-action problems. However, taking a polycentric approach would require public support for action at multiple scales. The issue of climate change is polarized across political beliefs and cultural worldviews and little research has examined how the public views climate action at one level of government relative to others as well as relative to actions by the private sector and by individuals. Using an original survey of the US public from October 2017, I explore who it is that the public thinks should “do more” about climate change and the role that the cultural worldviews posited by cultural theory—hierarchical, egalitarian, individualist, and fatalist—plays in shaping those opinions. Overall, I find support for multiple actors doing more to address climate change, but with differences in support between egalitarians and individualists for actors overall and for the federal government in particular.\n\n\n\n\n\n\nOLS analysis of who should ‘do more’ about climate change by cultural type\n\n\n\n\n\n@article{nowlinWhoShouldMore2022,\n  title = {Who {{Should}} ``{Do More}'' {{About Climate Change}}? {{Cultural Theory}}, {{Polycentricity}}, and {{Public Support}} for {{Climate Change Actions Across Actors}} and {{Governments}}},\n  shorttitle = {Who {{Should}} ``{Do More}'' {{About Climate Change}}?},\n  author = {Nowlin, Matthew C.},\n  year = {2022},\n  journal = {Review of Policy Research},\n  volume = {39},\n  number = {4},\n  pages = {468--485},\n  issn = {1541-1338},\n  doi = {10.1111/ropr.12468}\n}"
   },
   {
     "objectID": "publications/acf-pc/index.html",
     "href": "publications/acf-pc/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Advocacy Coalitions and Political Control",
     "section": "",
     "text": "Published version\n\n\nThe Advocacy Coalition Framework (ACF) posits that policy actors, including elected officials and bureaucrats, aggregate into coalitions based on shared beliefs and coordinate to achieve policy objectives. Yet, bureaucrats are often subject to political control mechanisms understood within a principal-agent framework. Combining insights from principal-agent theory and the ACF, we explore the nature of principal-agent relationships within and across advocacy coalitions in the United States using case studies of nuclear waste management and fair housing policy. Specifically, we develop three propositions regarding principals and agents as members of advocacy coalitions and examine those propositions by comparing the two case studies. We find that powerful elected officials and expert bureaucrats are important resources for coalitions; bureaucrats are in coalitions but face cross-pressure from principals in opposing coalitions; and control mechanisms embedded in policy designs by principals can limit bureaucratic discretion in a way that aligns with coalition goals.\n\n\n\n@article{nowlinAdvocacyCoalitionsPolitical2022,\n  title = {Advocacy {{Coalitions}} and {{Political Control}}},\n  author = {Nowlin, Matthew C. and Trochmann, Maren and Rabovsky, Thomas M.},\n  year = {2022},\n  journal = {Politics \\& Policy},\n  volume = {50},\n  number = {2},\n  pages = {201--224},\n  issn = {1747-1346},\n  doi = {10.1111/polp.12458}\n}"
   },
   {
     "objectID": "publications/science-politics/index.html",
     "href": "publications/science-politics/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States",
     "section": "",
     "text": "Published version\n\n\nTo potentially mitigate further climate change, the US needs to move away from fossil fuels and towards carbonfree sources of energy. The issue of climate change is highly polarized, which has led to beliefs about climate change becoming entangled with political beliefs. Yet, public support for decreasing the use of fossil fuels and increasing renewable sources is high. In this paper, we use an original survey of about 1300 respondents to examine the potential for the entanglement of political beliefs, climate change beliefs, and energy preferences. We find that the majority of respondents support a decreased use of fossil fuels, a slight increase of nuclear energy, and a large increase of renewable sources; however, conservative Republicans prefer smaller decreases of fossil fuels and smaller increases in renewables. Additionally, we find that as respondents increasingly accept the scientific consensus on climate change, they support larger decreases in fossil fuels and larger increases in renewable energy. Finally, using mediation analysis we find that climate beliefs mediate the relationship between political beliefs and energy preferences for conservative Republicans and liberal Democrats, but not those with more moderate political beliefs. These findings point to the potential for energy preferences to become entangled in climate change as a result of elite discourse.\n\n\n\n\n\n\nPath Analysis of Political Beliefs and Energy Preferences Mediated by Climate Change Beliefs\n\n\n\n\n\n@article{hawesClimateSciencePolitics2022,\n  title = {Climate {{Science}} or {{Politics}}? {{Disentangling}} the {{Roles}} of {{Citizen Beliefs}} and {{Support}} for {{Energy}} in the {{United States}}},\n  shorttitle = {Climate {{Science}} or {{Politics}}?},\n  author = {Hawes, Rachel and Nowlin, Matthew C.},\n  year = {2022},\n  month = mar,\n  journal = {Energy Research \\& Social Science},\n  volume = {85},\n  pages = {102419},\n  issn = {22146296},\n  doi = {10.1016/j.erss.2021.102419}\n}"
   },
   {
     "objectID": "publications/social-capital-evacuation/index.html",
     "href": "publications/social-capital-evacuation/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Social Capital and Hurricane Warning Response",
     "section": "",
     "text": "Published version\n\n\nSocial capital — resources that are available as a result of social relationships and connections — has been shown to be an important component across the various stages of a natural disaster, such as a hurricane. Additionally, research has shown that the importance of the different types of social capital — bonding, bridging, and linking — can vary as the disaster progresses from preparation, to the immediate aftermath, to long-term recovery. Yet, findings are not consistent regarding the impact of social capital on taking protective action (e.g., evacuation, shelter in home or community) following a hurricane warning. In this paper, we leverage an original survey of 1450 residents living in coastal communities in the Southeast and Gulf Coast regions of the United States to examine the role of social capital in stated behaviors in response to a hurricane warning. Additionally, we examine the stated likelihood of evacuating if advised to by close contacts (friends, family, and co-workers) and elite sources (emergency management officials, elected officials, and the media). We find that bonding social capital is associated with an increased likelihood to evacuate and shelter in home as well as an increased likelihood to listen to close contacts that encourage evacuation. In addition, we find that linking social capital is associated with an increased likelihood of evacuation if encouraged to by elite sources.\n\n\n\n@article{nowlinSocialCapitalHurricane2021,\n  title = {Social {{Capital}} and {{Hurricane Warning Response}}},\n  author = {Nowlin, Matthew C. and Wehde, Wesley},\n  year = {2021},\n  month = nov,\n  journal = {International Journal of Disaster Risk Reduction},\n  volume = {65},\n  pages = {102536},\n  issn = {2212-4209},\n  doi = {10.1016/j.ijdrr.2021.102536}\n}"
   },
   {
     "objectID": "publications/tech/index.html",
     "href": "publications/tech/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences",
     "section": "",
     "text": "Published version\n\n\nThe use of technocratic decision-making, where policy decisions are made by elite experts, is an important aspect of policymaking in the United States. However, little work has examined public opinion about technocracy. Using data from a representative sample of the United States (n = 1200), I explore differences in support for technocracy and the implications of that support for views about politically controversial energy sources and climate policies. Overall, I find that liberal Democrats, moderate/conservative Democrats, and moderate/liberal Republicans were more likely than conservative Republicans and moderate independents to support technocratic decision-making. In addition, I find that as support for technocracy increases, so does support for energy sources and climate policies; however, there are significant interaction effects across political beliefs.\n\n\n\n\n\n\nSupport for Energy Sources by Political Beliefs and Technocratic Views\n\n\n\n\n\n@article{nowlinPoliticalBeliefsViews2021,\n  title = {Political {{Beliefs}}, {{Views About Technocracy}}, and {{Energy}} and {{Climate Policy Preferences}}},\n  author = {Nowlin, Matthew C.},\n  year = {2021},\n  journal = {Public Understanding of Science},\n  volume = {30},\n  number = {3},\n  pages = {331--348},\n  publisher = {{SAGE Publications Ltd}},\n  issn = {0963-6625},\n  doi = {10.1177/0963662520978567}\n}"
   },
   {
     "objectID": "publications/fed-public/index.html",
     "href": "publications/fed-public/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas",
     "section": "",
     "text": "Published version\n\n\nUsing survey data collected from residents of counties along the South Atlantic and Gulf Coasts of the United States, we use innovative compositional data analysis techniques to examine individuals’ assignment of responsibility for hurricane preparedness across federal, state, and local officials as well as among household residents and their community. We find that the public assigns limited responsibility for hurricane preparedness to governments. Rather, respondents, especially conservatives and those with low trust in government, view individuals themselves as responsible for preparedness. Our results emphasize the role of ideology and the individualistic culture of American politics. These results also have implications for scholars who study individual attribution responsibility in multi-level systems and who may assume that individuals will assign responsibility to one of the various levels of government; however, focusing on disaster preparation in particular, our study shows that a significant number of individuals may not assign responsibility to government at any level.\n\n\n\n@article{wehdePublicAttributionResponsibility2021,\n  title = {Public {{Attribution}} of {{Responsibility}} for {{Disaster Preparedness}} across {{Three Levels}} of {{Government}} and the {{Public}}: {{Lessons}} from a {{Survey}} of {{Residents}} of the {{U}}.{{S}}. {{South Atlantic}} and {{Gulf Coast}}},\n  shorttitle = {Public {{Attribution}} of {{Responsibility}} for {{Disaster Preparedness}} across {{Three Levels}} of {{Government}} and the {{Public}}},\n  author = {Wehde, Wesley and Nowlin, Matthew C.},\n  year = {2021},\n  journal = {Publius: The Journal of Federalism},\n  volume = {51},\n  number = {2},\n  pages = {212--237},\n  doi = {10.1093/publius/pjaa037}\n}"
   },
   {
     "objectID": "publications/minipublic-learning/index.html",
     "href": "publications/minipublic-learning/index.html",
-    "title": "Matthew C. Nowlin",
+    "title": "Policy Beliefs, Belief Uncertainty, and Policy Learning",
     "section": "",
     "text": "Currently under review\n Materials (OSF)\n\n\nWithin the Advocacy Coalition Framework (ACF), policy-oriented learning is understood as a change in policy beliefs. Additional work has noted that belief reinforcement, not just belief change, is also a potential policy learning outcome. Yet, little work has attempted to reconcile how learning could involve both belief change and belief reinforcement. In this paper, I propose a policy-oriented learning model where policy beliefs – deep core, policy core, or secondary aspects – are understood as having a distribution with a central tendency (i.e., the belief) as well as variance (i.e., certainty associated with the belief). With policy beliefs considered as distributions, learning can be understood as changes in beliefs (i.e., a change in the central tendency) as well as changes in certainty (i.e., variance) such as a decrease in belief uncertainty (i.e., reinforcement). Using data from a deliberative forum that brought together various stakeholders including experts, natural resource managers, and the public to discuss environmental issues impacting coastal communities, I explore changes in concern regarding several key coastal issues before and after the forum. Additionally, I examine the association between concern following the forum and self-reported learning. I find support for the proposed policy-oriented learning model as shown by significant changes in average concern as well as average variance among participants across several of the issues discussed.\n\n\n\nAn earlier version of this paper was presented at the Conference on Policy Process Research in January, 2023.\n\n COPPR 2023 paper  COPPR 2023 slides"
+  },
+  {
+    "objectID": "publications/social-capital-evacuation/index.html#abstract",
+    "href": "publications/social-capital-evacuation/index.html#abstract",
+    "title": "Social Capital and Hurricane Warning Response",
+    "section": "",
+    "text": "Social capital — resources that are available as a result of social relationships and connections — has been shown to be an important component across the various stages of a natural disaster, such as a hurricane. Additionally, research has shown that the importance of the different types of social capital — bonding, bridging, and linking — can vary as the disaster progresses from preparation, to the immediate aftermath, to long-term recovery. Yet, findings are not consistent regarding the impact of social capital on taking protective action (e.g., evacuation, shelter in home or community) following a hurricane warning. In this paper, we leverage an original survey of 1450 residents living in coastal communities in the Southeast and Gulf Coast regions of the United States to examine the role of social capital in stated behaviors in response to a hurricane warning. Additionally, we examine the stated likelihood of evacuating if advised to by close contacts (friends, family, and co-workers) and elite sources (emergency management officials, elected officials, and the media). We find that bonding social capital is associated with an increased likelihood to evacuate and shelter in home as well as an increased likelihood to listen to close contacts that encourage evacuation. In addition, we find that linking social capital is associated with an increased likelihood of evacuation if encouraged to by elite sources."
+  },
+  {
+    "objectID": "publications/social-capital-evacuation/index.html#bibtex-citation",
+    "href": "publications/social-capital-evacuation/index.html#bibtex-citation",
+    "title": "Social Capital and Hurricane Warning Response",
+    "section": "",
+    "text": "@article{nowlinSocialCapitalHurricane2021,\n  title = {Social {{Capital}} and {{Hurricane Warning Response}}},\n  author = {Nowlin, Matthew C. and Wehde, Wesley},\n  year = {2021},\n  month = nov,\n  journal = {International Journal of Disaster Risk Reduction},\n  volume = {65},\n  pages = {102536},\n  issn = {2212-4209},\n  doi = {10.1016/j.ijdrr.2021.102536}\n}"
+  },
+  {
+    "objectID": "publications/tech/index.html#abstract",
+    "href": "publications/tech/index.html#abstract",
+    "title": "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences",
+    "section": "",
+    "text": "The use of technocratic decision-making, where policy decisions are made by elite experts, is an important aspect of policymaking in the United States. However, little work has examined public opinion about technocracy. Using data from a representative sample of the United States (n = 1200), I explore differences in support for technocracy and the implications of that support for views about politically controversial energy sources and climate policies. Overall, I find that liberal Democrats, moderate/conservative Democrats, and moderate/liberal Republicans were more likely than conservative Republicans and moderate independents to support technocratic decision-making. In addition, I find that as support for technocracy increases, so does support for energy sources and climate policies; however, there are significant interaction effects across political beliefs."
+  },
+  {
+    "objectID": "publications/tech/index.html#figure",
+    "href": "publications/tech/index.html#figure",
+    "title": "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences",
+    "section": "",
+    "text": "Support for Energy Sources by Political Beliefs and Technocratic Views"
+  },
+  {
+    "objectID": "publications/tech/index.html#bibtex-citation",
+    "href": "publications/tech/index.html#bibtex-citation",
+    "title": "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences",
+    "section": "",
+    "text": "@article{nowlinPoliticalBeliefsViews2021,\n  title = {Political {{Beliefs}}, {{Views About Technocracy}}, and {{Energy}} and {{Climate Policy Preferences}}},\n  author = {Nowlin, Matthew C.},\n  year = {2021},\n  journal = {Public Understanding of Science},\n  volume = {30},\n  number = {3},\n  pages = {331--348},\n  publisher = {{SAGE Publications Ltd}},\n  issn = {0963-6625},\n  doi = {10.1177/0963662520978567}\n}"
+  },
+  {
+    "objectID": "publications/policy-learning/index.html#abstract",
+    "href": "publications/policy-learning/index.html#abstract",
+    "title": "Policy Learning and Information Processing",
+    "section": "",
+    "text": "Policy learning is an important concept in the study of policymaking, yet it is difficult to model and empirically estimate. Additionally, work on policy learning has not fully drawn from the work on information processing in the policy process. In this paper, I propose a model of policy learning that incorporates the Advocacy Coalition Framework’s notion of policy‐oriented learning and the theory of disproportionate information processing within a Bayesian learning framework. Policy learning through Bayesian updating occurs as individuals adjust their prior beliefs in light of new information, and in the approach posited here, learning is a function of the strength of prior beliefs and the weight given to new information. Additionally, learning is thought to occur only when subsequent beliefs move in the direction of the information. Then, I demonstrate the policy learning model using public opinion data about Yucca Mountain, a proposed repository site for nuclear waste. Finally, I conclude with suggesting ways in which the policy learning model can be incorporated into current policy learning theories and frameworks."
+  },
+  {
+    "objectID": "publications/policy-learning/index.html#figure",
+    "href": "publications/policy-learning/index.html#figure",
+    "title": "Policy Learning and Information Processing",
+    "section": "",
+    "text": "Stylized Examples of Policy Learning with Probability Distributions of Beliefs and Information Weights"
+  },
+  {
+    "objectID": "publications/policy-learning/index.html#bibtex-citation",
+    "href": "publications/policy-learning/index.html#bibtex-citation",
+    "title": "Policy Learning and Information Processing",
+    "section": "",
+    "text": "@article{nowlinPolicyLearningInformation2021,\n  title = {Policy {{Learning}} and {{Information Processing}}},\n  author = {Nowlin, Matthew C.},\n  year = {2021},\n  journal = {Policy Studies Journal},\n  volume = {49},\n  number = {4},\n  pages = {1019--1039},\n  issn = {1541-0072},\n  doi = {10.1111/psj.12397},\n}"
+  },
+  {
+    "objectID": "publications/scale-up/index.html#abstract",
+    "href": "publications/scale-up/index.html#abstract",
+    "title": "The Internal Dynamics of “Scaling up” Deliberative Mini-Publics",
+    "section": "",
+    "text": "Recent deliberative systems research has emphasized the need to “scale up” deliberative mini-publics by exploring connections between mini-publics and broader arenas of policymaking. Less is known, however, about how the policy environment in a state or region might itself influence a deliberative event. In this article, we set out to examine how the internal dynamics of mini-publics are affected by the scaling-up process of connecting to larger policymaking domains. To better understand how the external role of deliberation affects the internal dynamics, we analyze two notable cases of deliberative forums addressing public problems. In both cases, the 2017 Our Coastal Future Forum in South Carolina and the 2020 Oregon Citizens’ Assembly on coronavirus disease-19 recovery, citizen participants grappled with the challenge of scaling up to larger policy outcomes. We conduct a thematic analysis of transcripts from both events, focusing on how citizens discuss their role in influencing policy and talk about the potential for policy output from the mini-publics. The analysis reveals that the scaling-up process invites a pragmatic orientation within deliberation, centering on issues of efficiency, scope, and efficacy."
+  },
+  {
+    "objectID": "publications/scale-up/index.html#bibtex-citation",
+    "href": "publications/scale-up/index.html#bibtex-citation",
+    "title": "The Internal Dynamics of “Scaling up” Deliberative Mini-Publics",
+    "section": "",
+    "text": "@article{rountreeInternalDynamicsScaling2022a,\n  title = {The {{Internal Dynamics}} of ``{Scaling} up'' {{Deliberative Mini-Publics}}},\n  author = {Rountree, John and Anderson, Chris and Reedy, Justin and Nowlin, Matthew C.},\n  year = {2022},\n  month = jul,\n  journal = {Communication and the Public},\n  volume = {7},\n  number = {3},\n  pages = {146--164},\n  publisher = {{SAGE PublicationsSage UK: London, England}},\n  doi = {10.1177/20570473221106025}"
+  },
+  {
+    "objectID": "publications/minipublic-learning/index.html#abstract",
+    "href": "publications/minipublic-learning/index.html#abstract",
+    "title": "Policy Beliefs, Belief Uncertainty, and Policy Learning",
+    "section": "",
+    "text": "Within the Advocacy Coalition Framework (ACF), policy-oriented learning is understood as a change in policy beliefs. Additional work has noted that belief reinforcement, not just belief change, is also a potential policy learning outcome. Yet, little work has attempted to reconcile how learning could involve both belief change and belief reinforcement. In this paper, I propose a policy-oriented learning model where policy beliefs – deep core, policy core, or secondary aspects – are understood as having a distribution with a central tendency (i.e., the belief) as well as variance (i.e., certainty associated with the belief). With policy beliefs considered as distributions, learning can be understood as changes in beliefs (i.e., a change in the central tendency) as well as changes in certainty (i.e., variance) such as a decrease in belief uncertainty (i.e., reinforcement). Using data from a deliberative forum that brought together various stakeholders including experts, natural resource managers, and the public to discuss environmental issues impacting coastal communities, I explore changes in concern regarding several key coastal issues before and after the forum. Additionally, I examine the association between concern following the forum and self-reported learning. I find support for the proposed policy-oriented learning model as shown by significant changes in average concern as well as average variance among participants across several of the issues discussed."
+  },
+  {
+    "objectID": "publications/minipublic-learning/index.html#previous-version",
+    "href": "publications/minipublic-learning/index.html#previous-version",
+    "title": "Policy Beliefs, Belief Uncertainty, and Policy Learning",
+    "section": "",
+    "text": "An earlier version of this paper was presented at the Conference on Policy Process Research in January, 2023.\n\n COPPR 2023 paper  COPPR 2023 slides"
+  },
+  {
+    "objectID": "publications/fed-public/index.html#abstract",
+    "href": "publications/fed-public/index.html#abstract",
+    "title": "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas",
+    "section": "",
+    "text": "Using survey data collected from residents of counties along the South Atlantic and Gulf Coasts of the United States, we use innovative compositional data analysis techniques to examine individuals’ assignment of responsibility for hurricane preparedness across federal, state, and local officials as well as among household residents and their community. We find that the public assigns limited responsibility for hurricane preparedness to governments. Rather, respondents, especially conservatives and those with low trust in government, view individuals themselves as responsible for preparedness. Our results emphasize the role of ideology and the individualistic culture of American politics. These results also have implications for scholars who study individual attribution responsibility in multi-level systems and who may assume that individuals will assign responsibility to one of the various levels of government; however, focusing on disaster preparation in particular, our study shows that a significant number of individuals may not assign responsibility to government at any level."
+  },
+  {
+    "objectID": "publications/fed-public/index.html#bibtex-citation",
+    "href": "publications/fed-public/index.html#bibtex-citation",
+    "title": "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas",
+    "section": "",
+    "text": "@article{wehdePublicAttributionResponsibility2021,\n  title = {Public {{Attribution}} of {{Responsibility}} for {{Disaster Preparedness}} across {{Three Levels}} of {{Government}} and the {{Public}}: {{Lessons}} from a {{Survey}} of {{Residents}} of the {{U}}.{{S}}. {{South Atlantic}} and {{Gulf Coast}}},\n  shorttitle = {Public {{Attribution}} of {{Responsibility}} for {{Disaster Preparedness}} across {{Three Levels}} of {{Government}} and the {{Public}}},\n  author = {Wehde, Wesley and Nowlin, Matthew C.},\n  year = {2021},\n  journal = {Publius: The Journal of Federalism},\n  volume = {51},\n  number = {2},\n  pages = {212--237},\n  doi = {10.1093/publius/pjaa037}\n}"
+  },
+  {
+    "objectID": "publications/env-book/index.html#about",
+    "href": "publications/env-book/index.html#about",
+    "title": "Environmental Policymaking in an Era of Climate Change",
+    "section": "",
+    "text": "As the world considers how to deal with the impacts of a changing climate, it’s vital that we understand the ways in which the United States’ policymaking process addresses environmental issues. A mix of existing theory and original analysis, Environmental Policymaking in an Era of Climate Change applies recent policy scholarship to questions of environmental governance, with a particular focus on climate change. The book examines how competing political actors influence policies within and across institutions, focusing on both a macro-level, where formal bodies set the agenda, and a meso-level, where issues are contained within policy subsystems.\nDivided into two sections, the book incorporates insights from political science and public policy to provide the reader with a better understanding of how environmental policy decisions are made. Part I offers a framework for understanding environmental policymaking, exploring the history of environmental policy, and discussing the importance of values in environmental policy. Part II applies the framework to the issue of climate change, focusing on agenda-setting and the role of formal institutions in the policymaking process, covering topics that include Congress, the Executive and Judicial branches, and how climate change cuts across policy subsystem boundaries. By placing specific climate change case studies in a broader context, Environmental Policymaking in an Era of Climate Change will help students enrolled in political science, public administration, public policy, and environmental studies courses – as well as all those interested in the impacts of policy on climate change – to understand what is, and will likely continue to be, one of the most pressing policy issues of our time."
+  },
+  {
+    "objectID": "publications/env-book/index.html#bibtex-citation",
+    "href": "publications/env-book/index.html#bibtex-citation",
+    "title": "Environmental Policymaking in an Era of Climate Change",
+    "section": "",
+    "text": "@book{nowlinEnvironmentalPolicymakingEra2019,\n    address = {New York, NY},\n    title = {Environmental {Policymaking} in an {Era} of {Climate} {Change}},\n    publisher = {Routledge},\n    author = {Nowlin, Matthew C.},\n    year = {2019}\n}"
+  },
+  {
+    "objectID": "publications/acf-pc/index.html#abstract",
+    "href": "publications/acf-pc/index.html#abstract",
+    "title": "Advocacy Coalitions and Political Control",
+    "section": "",
+    "text": "The Advocacy Coalition Framework (ACF) posits that policy actors, including elected officials and bureaucrats, aggregate into coalitions based on shared beliefs and coordinate to achieve policy objectives. Yet, bureaucrats are often subject to political control mechanisms understood within a principal-agent framework. Combining insights from principal-agent theory and the ACF, we explore the nature of principal-agent relationships within and across advocacy coalitions in the United States using case studies of nuclear waste management and fair housing policy. Specifically, we develop three propositions regarding principals and agents as members of advocacy coalitions and examine those propositions by comparing the two case studies. We find that powerful elected officials and expert bureaucrats are important resources for coalitions; bureaucrats are in coalitions but face cross-pressure from principals in opposing coalitions; and control mechanisms embedded in policy designs by principals can limit bureaucratic discretion in a way that aligns with coalition goals."
+  },
+  {
+    "objectID": "publications/acf-pc/index.html#bibtex-citation",
+    "href": "publications/acf-pc/index.html#bibtex-citation",
+    "title": "Advocacy Coalitions and Political Control",
+    "section": "",
+    "text": "@article{nowlinAdvocacyCoalitionsPolitical2022,\n  title = {Advocacy {{Coalitions}} and {{Political Control}}},\n  author = {Nowlin, Matthew C. and Trochmann, Maren and Rabovsky, Thomas M.},\n  year = {2022},\n  journal = {Politics \\& Policy},\n  volume = {50},\n  number = {2},\n  pages = {201--224},\n  issn = {1747-1346},\n  doi = {10.1111/polp.12458}\n}"
+  },
+  {
+    "objectID": "publications/science-politics/index.html#abstract",
+    "href": "publications/science-politics/index.html#abstract",
+    "title": "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States",
+    "section": "",
+    "text": "To potentially mitigate further climate change, the US needs to move away from fossil fuels and towards carbonfree sources of energy. The issue of climate change is highly polarized, which has led to beliefs about climate change becoming entangled with political beliefs. Yet, public support for decreasing the use of fossil fuels and increasing renewable sources is high. In this paper, we use an original survey of about 1300 respondents to examine the potential for the entanglement of political beliefs, climate change beliefs, and energy preferences. We find that the majority of respondents support a decreased use of fossil fuels, a slight increase of nuclear energy, and a large increase of renewable sources; however, conservative Republicans prefer smaller decreases of fossil fuels and smaller increases in renewables. Additionally, we find that as respondents increasingly accept the scientific consensus on climate change, they support larger decreases in fossil fuels and larger increases in renewable energy. Finally, using mediation analysis we find that climate beliefs mediate the relationship between political beliefs and energy preferences for conservative Republicans and liberal Democrats, but not those with more moderate political beliefs. These findings point to the potential for energy preferences to become entangled in climate change as a result of elite discourse."
+  },
+  {
+    "objectID": "publications/science-politics/index.html#figure",
+    "href": "publications/science-politics/index.html#figure",
+    "title": "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States",
+    "section": "",
+    "text": "Path Analysis of Political Beliefs and Energy Preferences Mediated by Climate Change Beliefs"
+  },
+  {
+    "objectID": "publications/science-politics/index.html#bibtex-citation",
+    "href": "publications/science-politics/index.html#bibtex-citation",
+    "title": "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States",
+    "section": "",
+    "text": "@article{hawesClimateSciencePolitics2022,\n  title = {Climate {{Science}} or {{Politics}}? {{Disentangling}} the {{Roles}} of {{Citizen Beliefs}} and {{Support}} for {{Energy}} in the {{United States}}},\n  shorttitle = {Climate {{Science}} or {{Politics}}?},\n  author = {Hawes, Rachel and Nowlin, Matthew C.},\n  year = {2022},\n  month = mar,\n  journal = {Energy Research \\& Social Science},\n  volume = {85},\n  pages = {102419},\n  issn = {22146296},\n  doi = {10.1016/j.erss.2021.102419}\n}"
+  },
+  {
+    "objectID": "publications/stats-book/index.html#about",
+    "href": "publications/stats-book/index.html#about",
+    "title": "Quantitative Research Methods for Political Science, Public Policy, and Public Administration",
+    "section": "",
+    "text": "The focus of this book is on using quantitative research methods to test hypotheses and build theory in political science, public policy and public administration. It is designed for advanced undergraduate courses, or introductory and intermediate graduate-level courses. The first part of the book introduces the scientific method, then covers research design, measurement, descriptive statistics, probability, inference, and basic measures of association. The second part of the book covers bivariate and multiple linear regression using the ordinary least squares, the calculus and matrix algebra that are necessary for understanding bivariate and multiple linear regression, the assumptions that underlie these methods, and then provides a short introduction to generalized linear models. The book fully embraces the open access and open source philosophies. The book is freely available in the SHAREOK repository; it is written in R Markdown files that are available in a public GitHub repository; it uses and teaches R and RStudio for data analysis, visualization and data management; and it uses publicly available survey data (from the Meso-Scale Integrated Socio-geographic Network) to illustrate important concepts and methods. We encourage students to download the data, replicate the examples, and explore further! We also encourage instructors to download the R Markdown files and modify the text for use in different courses."
+  },
+  {
+    "objectID": "publications/stats-book/index.html#reviews",
+    "href": "publications/stats-book/index.html#reviews",
+    "title": "Quantitative Research Methods for Political Science, Public Policy, and Public Administration",
+    "section": "",
+    "text": "For more information and reviews see here"
+  },
+  {
+    "objectID": "publications/stats-book/index.html#bibtex-citation",
+    "href": "publications/stats-book/index.html#bibtex-citation",
+    "title": "Quantitative Research Methods for Political Science, Public Policy, and Public Administration",
+    "section": "",
+    "text": "@book{jenkins-smithQuantitativeResearchMethods2017,\n  title = {Quantitative {{Research Methods}} for {{Political Science}}, {{Public Policy}} and {{Public Administration}} ({{With Applications}} in {{R}}): 3rd {{Edition}}},\n  author = {{Jenkins-Smith}, Hank C. and Ripberger, Joseph T. and Copeland, Gary and Nowlin, Matthew C. and Hughes, Tyler and Fister, Aaron L. and Wehde, Wesley},\n  year = {2017},\n  publisher = {{University of Oklahoma Libraries}},\n  address = {{Norman, OK}},\n  doi = {10.15763/11244/52244},\n}"
+  },
+  {
+    "objectID": "publications/do-more/index.html#abstract",
+    "href": "publications/do-more/index.html#abstract",
+    "title": "Who Should “Do More” About Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions Across Actors and Governments",
+    "section": "",
+    "text": "Under a polycentric approach to climate change, action is taken at different scales and across all levels of government and sectors of society. Some scholars have argued that such an approach is the best lens to view the governance of climate change and that a polycentric approach has advantages in addressing collective-action problems. However, taking a polycentric approach would require public support for action at multiple scales. The issue of climate change is polarized across political beliefs and cultural worldviews and little research has examined how the public views climate action at one level of government relative to others as well as relative to actions by the private sector and by individuals. Using an original survey of the US public from October 2017, I explore who it is that the public thinks should “do more” about climate change and the role that the cultural worldviews posited by cultural theory—hierarchical, egalitarian, individualist, and fatalist—plays in shaping those opinions. Overall, I find support for multiple actors doing more to address climate change, but with differences in support between egalitarians and individualists for actors overall and for the federal government in particular."
+  },
+  {
+    "objectID": "publications/do-more/index.html#figure",
+    "href": "publications/do-more/index.html#figure",
+    "title": "Who Should “Do More” About Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions Across Actors and Governments",
+    "section": "",
+    "text": "OLS analysis of who should ‘do more’ about climate change by cultural type"
+  },
+  {
+    "objectID": "publications/do-more/index.html#bibtex-citation",
+    "href": "publications/do-more/index.html#bibtex-citation",
+    "title": "Who Should “Do More” About Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions Across Actors and Governments",
+    "section": "",
+    "text": "@article{nowlinWhoShouldMore2022,\n  title = {Who {{Should}} ``{Do More}'' {{About Climate Change}}? {{Cultural Theory}}, {{Polycentricity}}, and {{Public Support}} for {{Climate Change Actions Across Actors}} and {{Governments}}},\n  shorttitle = {Who {{Should}} ``{Do More}'' {{About Climate Change}}?},\n  author = {Nowlin, Matthew C.},\n  year = {2022},\n  journal = {Review of Policy Research},\n  volume = {39},\n  number = {4},\n  pages = {468--485},\n  issn = {1541-1338},\n  doi = {10.1111/ropr.12468}\n}"
   }
 ]
